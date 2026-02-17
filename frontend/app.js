@@ -1,2 +1,2 @@
-function formatName(name) { return `Hello, ${name}!`; }
+function formatName(name) { return `Hello, ${name}`; }
 module.exports = formatName;
